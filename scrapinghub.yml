@@ -1,0 +1,4 @@
+projects:
+  default: 
+requirements:
+  file: requirements.txt
